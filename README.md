@@ -1,16 +1,16 @@
 ## BUILD THE NEXT ERA OF SOFTWARE DEVELOPMENT!
 
 ```console
-elixir our_vision.exs
+foo@bar:~$ elixir our_vision.exs
 BUILD THE NEXT ERA OF SOFTWARE DEVELOPMENT
 ```
 
 ```console
-ruby our_vision.rb
+foo@bar:~$ ruby our_vision.rb
 BUILD THE NEXT ERA OF SOFTWARE DEVELOPMENT
 ```
 
 ```console
-node our_vision.js
+foo@bar:~$ node our_vision.js
 BUILD THE NEXT ERA OF SOFTWARE DEVELOPMENT
 ```
