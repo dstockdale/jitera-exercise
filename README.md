@@ -13,7 +13,7 @@ cd jitera-exercise
 Then run these...
 
 ```console
-foo@bar:~$ elixir our_vision.exs
+foo@bar:~$ node our_vision.js
 BUILD THE NEXT ERA OF SOFTWARE DEVELOPMENT
 ```
 
@@ -23,6 +23,6 @@ BUILD THE NEXT ERA OF SOFTWARE DEVELOPMENT
 ```
 
 ```console
-foo@bar:~$ node our_vision.js
+foo@bar:~$ elixir our_vision.exs
 BUILD THE NEXT ERA OF SOFTWARE DEVELOPMENT
 ```
